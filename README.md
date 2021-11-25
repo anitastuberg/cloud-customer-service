@@ -50,8 +50,3 @@ Vi har utført tester med skjermleser for å teste applikasjonens tilfredsstille
 
 ## Videre utvikling
 Grunnet tidsbegrensning og omfanget i prosjektet har ikke gruppen implementert videre funksjonalitet. En funksjonalitet som blir sett på som hensiktsmessig å implementere for en slik applikasjon er å kunne fjerne kunder som ikke benytter av tjenesten lenger. En annen funksjonalitet som kan være relevant er å kunne bytte abonnementstyper på kundene. For forbedring av brukeropplevelse kunne det ha vært mulig å implementere en funksjonalitet som lar brukerene bytte på mellom lys og mørk tema som kan gjøre det mer behagelig for øynene. Når det kommer til kodekvalitet kunne det blitt gjort om bruk av context API for filtering og søk om til redux for å gjøre det ryddigere med håndtering av global states. Likevel har vi gjort applikasjonen mer brukervennlig basert på tilbakemeldinger fra forrige prosjekt (prosjekt 3) som er nevnt i "Add Customer". Det har også blitt lagt til en indikator som er ment til å vise at dataene blir loadet. 
-
-## Screenshots av applikasjonen
-<img src='images/customerlist.jpg' width='210' height='430'>
-<img src='images/sidemenu.jpg' width='210' height='430'>
-<img src='images/addcustomer.jpg' width='210' height='430'>
